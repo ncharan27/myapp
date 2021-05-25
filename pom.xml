@@ -32,12 +32,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>https://https://nexus.clouddevops.click/repository/clouddevops-snapshot/</url>
+		    <url>https://nexus.clouddevops.click/repository/clouddevops-snapshot/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>https://https://nexus.clouddevops.click/repository/maven-releases/</url>
+		    <url>https://nexus.clouddevops.click/repository/maven-releases/</url>
 		</repository>
   	</distributionManagement>
 	
